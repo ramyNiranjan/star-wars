@@ -226,4 +226,4 @@ module.exports=require("./lib/axios");
 },{"./Characters-fetch":"X2c4","./DomUi":"c3Rb"}],"Focm":[function(require,module,exports) {
 "use strict";require("./scss/main.scss");var e=require("./components/Search"),r=require("./components/DomUi");document.addEventListener("DOMContentLoaded",r.init),(0,r.charactersHandler)(),(0,e.showSearchInput)(),(0,r.characterInfoUi)(),(0,e.userSearch)();
 },{"./scss/main.scss":"fx60","./components/Search":"Uhbr","./components/DomUi":"c3Rb"}]},{},["Focm"], null)
-//# sourceMappingURL=src.88e835e6.js.map
+//# sourceMappingURL=src.183820f2.js.map
